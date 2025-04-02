@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hey, I'm Alyssa
+
+🚧 This readme is under construction. Like all great things.  
+
+(But my code works. Mostly.)  
 
 <!--
 **alyssafrost/alyssafrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
