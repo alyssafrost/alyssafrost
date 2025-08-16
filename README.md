@@ -2,7 +2,7 @@
 
 ###
 
-- 🔨 Building a game + documentary.  
+- 🔨 Building a game + documentary immersive web experience.  
 - 🤖 Occasionally ranting about AI hype.  
 - 📫 How to reach me: [send me an email!](mailto:bhamfrost@gmail.com)
 
