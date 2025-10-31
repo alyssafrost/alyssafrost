@@ -2,9 +2,14 @@
 
 ###
 
-- 🔨 Building a game + documentary immersive web experience.  
-- 🤖 Occasionally ranting about AI hype.  
-- 📫 How to reach me: [send me an email!](mailto:bhamfrost@gmail.com)
+- 🔨 Building a game + documentary immersive web experience
+- 🌱 I'm constantly learning and exploring new technologies
+- 🤖 Occasionally ranting about AI hype
+- 💼 Open to collaboration and new opportunities
+
+## 🌐 Contact
+
+📫 [send me an email!](mailto:bhamfrost@gmail.com)
 
 ###
 
