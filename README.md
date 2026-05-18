@@ -2,10 +2,10 @@
 
 ###
 
-- 🔨 Building a game + documentary immersive web experience
-- 🌱 I'm constantly learning and exploring new technologies
+- 🔨 Building a political canvassing platform for voter outreach campaigns across the political spectrum + an indie game focused on the environment!
+- 🌱 Always learning and exploring new technologies
 - 🤖 Occasionally ranting about AI hype
-- 💼 Open to collaboration and new opportunities
+- 💼 Open to collaboration for anything interesting
 
 ## 🌐 Contact
 
