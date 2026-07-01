@@ -2,10 +2,10 @@
 
 ###
 
-- 🔨 Building a political canvassing platform for voter outreach campaigns across the political spectrum + an indie game focused on the environment!
+- 🔨 Building a campaign management platform across the political spectrum + an indie game focused on the environment!
 - 🌱 Always learning and exploring new technologies
 - 🤖 Occasionally ranting about AI hype
-- 💼 Open to collaboration for anything interesting
+- 💼 Open to collaboration
 
 ## 🌐 Contact
 
