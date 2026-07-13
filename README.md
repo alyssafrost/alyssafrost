@@ -1,18 +1,17 @@
-## 👋 Hey, I'm Alyssa
+## Hey, I'm Alyssa
 
-- 🔨 Shipping across mobile, web, and backend while building a campaign management solution
-- 🎮 Working on an indie game focused on the environment
-- 🌱 Always learning and exploring new technologies
-- 🤖 Occasionally ranting about AI hype
-- 💼 Open to collaboration
+✦ Shipping across mobile, web, and backend while building a campaign management solution ​   
+✦ Working on an indie game focused on the environment ​   
+✦ Always learning and exploring new technologies​   
+✦ Occasionally ranting about AI hype​   
 
-## 🌐 Contact
+### ✦ Contact ✦
 
 📫 [send me an email!](mailto:bhamfrost@gmail.com)
 
 <img align="right" height="150" src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif" />
 
-### 🛠 Tech I ship with
+### ✦ Tech ✦
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
