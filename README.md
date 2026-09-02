@@ -1,5 +1,3 @@
-## Hey, I'm Alyssa
-
 ✦ Shipping across mobile, web, and backend while building a campaign management solution ​   
 ✦ Working on an indie game focused on the environment ​   
 ✦ Always learning and exploring new technologies​   
