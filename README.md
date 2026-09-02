@@ -1,13 +1,5 @@
 ✦ Shipping across mobile, web, and backend while building a campaign management solution ​   
-✦ Working on an indie game focused on the environment ​   
-✦ Always learning and exploring new technologies​   
-✦ Occasionally ranting about AI hype​   
-
-### ✦ Contact ✦
-
-📫 [send me an email!](mailto:bhamfrost@gmail.com)
-
-<img align="right" height="150" src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif" />
+✦ Working on an indie game focused on the environment ​  
 
 ### ✦ Tech ✦
 
