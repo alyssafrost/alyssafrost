@@ -1,4 +1,4 @@
-✦ Shipping across mobile, web, and backend to democratize campaigning
+✦ Shipping across mobile, web, and backend to democratize campaigning  
 ✦ Working on an indie game focused on the environment ​  
 
 ### ✦ Tech ✦
